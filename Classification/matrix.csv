@@ -1,0 +1,9 @@
+,Actual Delinquents,Predicted Delinquents,Records in the dataset,Delinquents properly classified,nondelinquents improperly classified as delinquents,Quarter
+1,37190,178,100000,51,127,Q21999
+2,4062,4861,100000,122,4739,Q31999
+3,4927,141,100000,53,88,Q41999
+4,5450,55,100000,55,0,Q12000
+5,4655,125,100000,117,8,Q22000
+6,6405,394,100000,163,231,Q32000
+7,4593,106,100000,62,44,Q42000
+8,5469,151,100000,87,64,Q12001
